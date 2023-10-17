@@ -2,7 +2,7 @@
 
 I'm Nirinasoa Herilanto, a full-stack developer, and I'm passionate about digital transformations.
 
-By combining programming and my passion, I enjoy doing research on digitalization and bringing new solutions to problems or creating beautiful web applications or websites.
+By combining programming and my passion, I enjoy doing research on digitalization and bringing new solutions to problems or creating beautiful web applications.
 
 ### Here are my tech stacks
 
